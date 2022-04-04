@@ -1,0 +1,6 @@
+fastapi==0.75.0
+redis-om==0.0.20
+
+#redis data base 
+# redis-10451.c78.eu-west-1-2.ec2.cloud.redislabs.com:10451
+# FzbtX2gyMlmQeFXAoqNXT73c2O6rBWT1
